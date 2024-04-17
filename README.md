@@ -9,7 +9,7 @@
 
     **3.** Evaluated sales performance by Division wise _[Division Performance Report](https://github.com/rajapandian-ar/Excel/blob/main/Division_Level_Report.pdf)_
 
-    **4.** Evaluated sales performance of Newly launched products in the market _[New_Products_Sales_Report](https://github.com/rajapandian-ar/Excel/blob/main/New_Products_Sales_Report.pdf)_
+    **4.** Evaluated sales performance of Newly launched products in the market _[New Products Sales Report](https://github.com/rajapandian-ar/Excel/blob/main/New_Products_Sales_Report.pdf)_
   
     **5.** Insights on Best & Worst Product sales by Quantity _[Best & Worst Products By Quantity Report](https://github.com/rajapandian-ar/Excel/blob/main/Best_%26_Worst_Products_By_Qty.pdf)_
 
