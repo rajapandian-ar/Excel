@@ -7,8 +7,8 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/rajapandian-ar/Excel/blob/main/Market_Performance_Report.pdf)_
 
-    **3.** Evaluated sales performance by Division wise _[Division Performance Report]_(https://github.com/rajapandian-ar/Excel/blob/main/Division_Level_Report.pdf)
-
+    **3.** Evaluated sales performance by Division wise _[Division Performance Report](https://github.com/rajapandian-ar/Excel/blob/main/Division_Level_Report.pdf)_
+ 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
