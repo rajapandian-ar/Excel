@@ -29,9 +29,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]()_ & _[)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/rajapandian-ar/Excel/blob/main/PNL_by_FY.pdf)_ & _[Gross Margin by Quarters](https://github.com/rajapandian-ar/Excel/blob/main/GM_quarters_report2.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]()_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/rajapandian-ar/Excel/blob/main/Pnl_Markets_report1.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
