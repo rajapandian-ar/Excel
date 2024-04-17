@@ -5,7 +5,9 @@
 
     **1.** Create a _[customer performance report](https://github.com/rajapandian-ar/Excel/blob/main/Customer_Performance_Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]()_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/rajapandian-ar/Excel/blob/main/Market_Performance_Report.pdf)_
+
+    **3.** Evaluated sales performance by Division wise _[Division Performance Report]_(https://github.com/rajapandian-ar/Excel/blob/main/Division_Level_Report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
